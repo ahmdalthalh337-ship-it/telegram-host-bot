@@ -1,3 +1,6 @@
-pyTelegramBotAPI
-requests
-logging
+pyrogram
+tgcrypto
+aiogram
+pillow
+python-dotenv
+motor
